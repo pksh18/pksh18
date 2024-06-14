@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pksh18
 - 👀 I’m interested in ... Computational Fluid Dynamics
-- I'm pursuing PhD in Mechanical Engineering (Thermal Engineering)
+- I'm pursuing PhD in Mechanical Engineering
 - 🌱 I’m currently learning ... Machine Learning, AI, CFD with python
 - 💞️ I’m looking to collaborate on ... Python programming
 - 📫 How to reach me ... Linkedin : https://in.linkedin.com/in/pks18, IG: @pks__18
