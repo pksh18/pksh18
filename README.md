@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pksh18
+- 👋 Hi, I’m @Prashant Kishor Sharma
 - 👀 I’m interested in ... Computational Fluid Dynamics
 - I'm pursuing PhD in Mechanical Engineering
 - 🌱 I’m currently learning ... Machine Learning, AI, CFD with python
